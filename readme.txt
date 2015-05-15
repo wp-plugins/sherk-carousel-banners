@@ -22,8 +22,8 @@ You can add custom categories to your banners/slideshows for you to organize it 
 You can email me directly for any plugin request or personal modification such as styles and templates at <contact@sherkspear.com> or contact me at <http://sherkspear.com/contact>
 
 
-Plugin URI: <http://www.sherkspear.com/portfolio-item/sherk-banners-wordpress-plugin/>
-Demo Page: <http://www.sherkspear.com> *(The banner at the homepage set with false pager)
+Plugin URI: <http://www.sherkspear.com/portfolio-item/sherk-banners-wordpress-plugin/>    
+Demo Page: <http://www.sherkspear.com> *(The banner at the homepage set with false pager)*
 
 
 == Installation ==
