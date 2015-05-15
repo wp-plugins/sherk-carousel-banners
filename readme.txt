@@ -15,6 +15,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This is the plugin you need when you have to add responsive slideshows and banners in carousels for your websites. 
 The plugin implements widgets and shortcodes on adding the slideshows/banners into your contents. 
 
+Custom post type SherkBanners lets you add slides with captions and links. The good thing to this is you are able to display the SherkBanner anywhere in your website through widgets and shortcodes repeatedly. 
+
 The plugin uses **Bxslider jQuery plugin**. Parameters are added into the widget's configuration and also with the shortcode. 
 
 You can add custom categories to your banners/slideshows for you to organize it easily.
@@ -122,5 +124,5 @@ Contact me through email at contact@sherkspear.com or at http://sherkspear.com/c
 
 
 == Detailed Instructions ==
-After installation, check at Dashboard -> Tools -> Sherk Banners (/wp-admin/edit.php?post_type=sherk_banners&page=sherkbanners_info)
+**After installation, check at Dashboard -> Tools -> Sherk Banners**    `(/wp-admin/edit.php?post_type=sherk_banners&page=sherkbanners_info)`   
 for more detailed instructions.

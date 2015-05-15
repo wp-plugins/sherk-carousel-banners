@@ -2,7 +2,7 @@
 /*
 Plugin Name: Sherk Carousel Banners
 Plugin URI: http://www.sherkspear.com/portfolio-item/sherk-banners-wordpress-plugin/
-Description: This is the plugin you need when you have to add responsive slideshows and banners in carousels for your websites. The plugin implements widgets and shortcodes on adding the slideshows/banners into your contents. 
+Description: Custom post type banners for responsive slideshows and carousels to your websites. Uses widgets and shortcodes to display.
 The plugin uses Bxslider jQuery plugin. Parameters are added into the widget's configuration and also with the shortcode.
 Version: 1.0
 Author: Sherwin Calims
